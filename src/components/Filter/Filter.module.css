@@ -1,0 +1,12 @@
+.filterLabel {
+    display: block;
+    margin-bottom: 5px;
+ 
+  }
+
+  input {
+    padding: 5px;
+    width: 200px;
+    margin-left: 10px;
+    
+  }

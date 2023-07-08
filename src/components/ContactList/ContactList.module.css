@@ -1,0 +1,28 @@
+.contactList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .contactItem {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+   
+  }
+  
+  .contactItem button {
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: #f84f4c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .contactItem button:hover {
+    background-color: #c62828;
+  }
+  span {
+    margin-left: 5px;
+  }

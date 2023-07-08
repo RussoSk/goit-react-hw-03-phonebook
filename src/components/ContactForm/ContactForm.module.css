@@ -1,0 +1,29 @@
+.formSub {
+    margin-bottom: 10px;
+  }
+.formSub label {
+    display: block;
+    margin-bottom: 5px;
+ 
+  }
+  
+  .formSub input {
+    padding: 5px;
+    width: 200px;
+    margin-left: 10px;
+    
+  }
+
+  .formBtn {
+    padding: 5px 10px;
+    background-color: #5753a3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .formBtn:disabled {
+    background-color: rgb(196, 192, 192);
+    cursor: not-allowed;
+  }
